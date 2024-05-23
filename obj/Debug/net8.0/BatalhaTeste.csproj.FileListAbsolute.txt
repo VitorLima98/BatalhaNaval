@@ -1,0 +1,14 @@
+c:\Users\vitor\ConsoleNaval\BatalhaTeste\bin\Debug\net8.0\BatalhaTeste.exe
+c:\Users\vitor\ConsoleNaval\BatalhaTeste\bin\Debug\net8.0\BatalhaTeste.deps.json
+c:\Users\vitor\ConsoleNaval\BatalhaTeste\bin\Debug\net8.0\BatalhaTeste.runtimeconfig.json
+c:\Users\vitor\ConsoleNaval\BatalhaTeste\bin\Debug\net8.0\BatalhaTeste.dll
+c:\Users\vitor\ConsoleNaval\BatalhaTeste\bin\Debug\net8.0\BatalhaTeste.pdb
+c:\Users\vitor\ConsoleNaval\BatalhaTeste\obj\Debug\net8.0\BatalhaTeste.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\vitor\ConsoleNaval\BatalhaTeste\obj\Debug\net8.0\BatalhaTeste.AssemblyInfoInputs.cache
+c:\Users\vitor\ConsoleNaval\BatalhaTeste\obj\Debug\net8.0\BatalhaTeste.AssemblyInfo.cs
+c:\Users\vitor\ConsoleNaval\BatalhaTeste\obj\Debug\net8.0\BatalhaTeste.csproj.CoreCompileInputs.cache
+c:\Users\vitor\ConsoleNaval\BatalhaTeste\obj\Debug\net8.0\BatalhaTeste.dll
+c:\Users\vitor\ConsoleNaval\BatalhaTeste\obj\Debug\net8.0\refint\BatalhaTeste.dll
+c:\Users\vitor\ConsoleNaval\BatalhaTeste\obj\Debug\net8.0\BatalhaTeste.pdb
+c:\Users\vitor\ConsoleNaval\BatalhaTeste\obj\Debug\net8.0\BatalhaTeste.genruntimeconfig.cache
+c:\Users\vitor\ConsoleNaval\BatalhaTeste\obj\Debug\net8.0\ref\BatalhaTeste.dll
